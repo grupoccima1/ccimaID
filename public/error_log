@@ -1,0 +1,26 @@
+[20-Apr-2022 11:03:35 America/Mexico_City] PHP Warning:  require(/home1/grupocci/sherpa.grupo-ccima.com/.../sherpa/vendor/autoload.php): failed to open stream: No such file or directory in /home1/grupocci/sherpa.grupo-ccima.com/index.php on line 34
+[20-Apr-2022 11:03:35 America/Mexico_City] PHP Fatal error:  require(): Failed opening required '/home1/grupocci/sherpa.grupo-ccima.com/.../sherpa/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/grupocci/sherpa.grupo-ccima.com/index.php on line 34
+[20-Apr-2022 11:04:20 America/Mexico_City] PHP Warning:  require(/home1/grupocci/sherpa.grupo-ccima.com/.../sherpa/vendor/autoload.php): Failed to open stream: No such file or directory in /home1/grupocci/sherpa.grupo-ccima.com/index.php on line 34
+[20-Apr-2022 11:04:20 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/grupocci/sherpa.grupo-ccima.com/.../sherpa/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home1/grupocci/sherpa.grupo-ccima.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/grupocci/sherpa.grupo-ccima.com/index.php on line 34
+[20-Apr-2022 11:05:02 America/Mexico_City] PHP Warning:  require(/home1/grupocci/sherpa.grupo-ccima.com/.../sherpa/vendor/autoload.php): Failed to open stream: No such file or directory in /home1/grupocci/sherpa.grupo-ccima.com/index.php on line 34
+[20-Apr-2022 11:05:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/grupocci/sherpa.grupo-ccima.com/.../sherpa/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home1/grupocci/sherpa.grupo-ccima.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/grupocci/sherpa.grupo-ccima.com/index.php on line 34
+[20-Apr-2022 11:05:19 America/Mexico_City] PHP Warning:  require(/home1/grupocci/sherpa.grupo-ccima.com/.../sherpa/vendor/autoload.php): failed to open stream: No such file or directory in /home1/grupocci/sherpa.grupo-ccima.com/index.php on line 34
+[20-Apr-2022 11:05:19 America/Mexico_City] PHP Fatal error:  require(): Failed opening required '/home1/grupocci/sherpa.grupo-ccima.com/.../sherpa/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/grupocci/sherpa.grupo-ccima.com/index.php on line 34
+[20-Apr-2022 11:05:25 America/Mexico_City] PHP Warning:  require(/home1/grupocci/sherpa.grupo-ccima.com/.../sherpa/vendor/autoload.php): failed to open stream: No such file or directory in /home1/grupocci/sherpa.grupo-ccima.com/index.php on line 34
+[20-Apr-2022 11:05:25 America/Mexico_City] PHP Fatal error:  require(): Failed opening required '/home1/grupocci/sherpa.grupo-ccima.com/.../sherpa/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/grupocci/sherpa.grupo-ccima.com/index.php on line 34
+[20-Apr-2022 11:11:21 America/Mexico_City] PHP Warning:  require(/home1/grupocci/sherpa.grupo-ccima.com/.../sherpa/vendor/autoload.php): Failed to open stream: No such file or directory in /home1/grupocci/sherpa.grupo-ccima.com/index.php on line 34
+[20-Apr-2022 11:11:21 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/grupocci/sherpa.grupo-ccima.com/.../sherpa/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home1/grupocci/sherpa.grupo-ccima.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/grupocci/sherpa.grupo-ccima.com/index.php on line 34
+[20-Apr-2022 11:11:24 America/Mexico_City] PHP Warning:  require(/home1/grupocci/sherpa.grupo-ccima.com/.../sherpa/vendor/autoload.php): Failed to open stream: No such file or directory in /home1/grupocci/sherpa.grupo-ccima.com/index.php on line 34
+[20-Apr-2022 11:11:24 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/grupocci/sherpa.grupo-ccima.com/.../sherpa/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home1/grupocci/sherpa.grupo-ccima.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/grupocci/sherpa.grupo-ccima.com/index.php on line 34
